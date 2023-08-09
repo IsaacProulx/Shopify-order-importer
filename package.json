@@ -1,5 +1,5 @@
 {
-  "name": "test-app",
+  "name": "order-importer",
   "version": "1.0.0",
   "main": "web/index.js",
   "license": "UNLICENSED",
